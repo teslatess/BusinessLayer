@@ -1,0 +1,15 @@
+{
+  "originHash" : "f13085432fdec14602e1d55c57f25da7130002a1d10c2b858c65b98493fdfdba",
+  "pins" : [
+    {
+      "identity" : "networkinglayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/teslatess/NetworkingLayer",
+      "state" : {
+        "revision" : "b07911eaf62828254a046785783d9ebcca1f0651",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
